@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="LO_TEST01" max_length="40" name="x_311306_app_scrat_lo_test01" type="collection">
+        <element label="Column_Lo1" max_length="40" name="column_lo1" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

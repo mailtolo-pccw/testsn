@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Test Labels" max_length="40" name="x_311306_app_scrat_u_lo_test_tbl" type="collection">
+        <element label="Attachment" max_length="40" name="attachment" type="file_attachment"/>
+        <element default="1" display="true" label="ID" max_length="30" name="id" type="integer"/>
+    </element>
+</database>
